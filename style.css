@@ -1,0 +1,10 @@
+video {
+  width: 640px; }
+
+.closed video {
+  height: 0; }
+
+.open video {
+  height: 320px; }
+
+/*# sourceMappingURL=style.css.map */
